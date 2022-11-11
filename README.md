@@ -20,7 +20,7 @@ npm i -D eslint @jeny3g/eslint-config-react
 2. Make sure you have this 2 extensions installed
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/31122067/201343644-11bbf89b-e4ae-450e-92a8-ff1c572a36fc.png">
 
-3. Make sure you are using the right extension in your settings.json
+3. Update your vscode settings.json in order to use your eslint/prettier
 ```
 {
   "[typescript]": {
