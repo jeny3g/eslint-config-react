@@ -12,7 +12,7 @@
 
 1. Install the dependencies
 ```
-npm i -D eslint @jeny3g/eslint-config
+npm i -D eslint @jeny3g/eslint-config-react
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
