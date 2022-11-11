@@ -60,6 +60,10 @@ npm i -D eslint @jeny3g/eslint-config-react
 
 2. Enjoy 😊
 
+---
+
+Feito com :heart: por jeny3g. :handshake: Entre em [contato](https://www.linkedin.com/in/mirandajean)!
+
 
 
 
