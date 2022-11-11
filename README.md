@@ -15,8 +15,6 @@
 npm i -D eslint @jeny3g/eslint-config-react
 ```
 
-> You can also use a `.eslintrc.js` instead of JSON if you prefer.
-
 2. Make sure you have this 2 extensions installed
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/31122067/201343644-11bbf89b-e4ae-450e-92a8-ff1c572a36fc.png">
 
@@ -57,6 +55,9 @@ npm i -D eslint @jeny3g/eslint-config-react
   "extends": "@jeny3g/eslint-config-react/react"
 }
 ```
+
+> You can also use a `.eslintrc.js` instead of JSON if you prefer.
+
 
 2. Enjoy 😊
 
